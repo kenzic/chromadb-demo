@@ -1,0 +1,16 @@
+{
+  "name": "chromadb-demo",
+  "version": "1.0.0",
+  "author": "Chris McKenzie",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@babel/cli": "^7.22.15",
+    "@babel/core": "^7.22.20",
+    "@babel/eslint-parser": "^7.22.15",
+    "@babel/node": "^7.22.19",
+    "@babel/preset-env": "^7.22.20"
+  },
+  "dependencies": {
+  }
+}
