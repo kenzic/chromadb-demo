@@ -12,5 +12,7 @@
     "@babel/preset-env": "^7.22.20"
   },
   "dependencies": {
+    "chromadb": "^1.5.11",
+    "openai": "^4.10.0"
   }
 }
